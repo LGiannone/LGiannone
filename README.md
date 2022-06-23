@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Luca Giannone
+- 🌱 I’m currently doing experiments with DevOps pipelines 
